@@ -10,7 +10,7 @@
 
 💬 Ask me about code and what i do
 
-📫 How to reach me: there's a link to my social media account on my profile
+📬 Let’s connect: Check out my social media links in my profile!
 
 😄 Pronouns: she/her
 
