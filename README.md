@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I'm Uwaoma Joy Ogbonna
 
-<!--
-**JoyDTechGirl/JoyDTechGirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Backend Developer | API Enthusiast | Open Source Contributor  
+🚀 Building: [SchediTix](Not Out Yet)
+📚 Applying for Google Summer of Code 2025  
+👯 I’m looking to collaborate with developers on many projects
+💬 Ask me about code and what i do
+📫 How to reach me: there's a link to my social media account on my profile
+😄 Pronouns: she/her
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- Node.js, Express.js, Sequelize, MongoDB, MySQL
+- RESTful API Design
+- Authentication (JWT, Google OAuth)
+- File Uploads (Cloudinary)
+- Payment Integration (Paystack, KoraPay)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me
+- GitHub: [@JoyDTechGirl](https://github.com/JoyDTechGirl)
+- Email: samsonjoyuwaoma7@gmail.com
