@@ -2,7 +2,7 @@
 
 🎓 Backend Developer | API Enthusiast | Open Source Contributor
 
-🚀 Build: [https://schedi-tix-front-end.vercel.app/]
+🚀 Build: [https://schedi-tix-front-end.vercel.app/],[https://30-day-code-w46x.vercel.app]
 
 📚 Applying for Google Summer of Code 2025
 
